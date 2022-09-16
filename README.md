@@ -14,8 +14,12 @@ This Application is a online site Having a Collection of the premium gadgets whi
 
 ## Screen shots of the project
 
+<img width="938" alt="Screenshot 2022-09-16 113650" src="https://user-images.githubusercontent.com/111648033/190569341-744ac12e-5977-40a6-85ba-dc161093be72.png">
 
 
+<img width="930" alt="Screenshot 2022-09-16 113713" src="https://user-images.githubusercontent.com/111648033/190569355-f5e38ae3-ff9f-473a-85a0-08a2babce0c0.png">
+
+<img width="937" alt="Screenshot 2022-09-16 113821" src="https://user-images.githubusercontent.com/111648033/190569367-4b99241c-e123-4249-9e12-1141026a9d22.png">
 
 
 ## Tech Stack 💻
